@@ -35,30 +35,39 @@ This project used exploratory data analysis to generate summary statistics of va
 ## Results 
 
 ###### Question 1: Which genres generate the highest average ROI?
-By looking at movies from 2010 on, grouping them by genre indicators, and calculating the mean return on investment, we found these results as represented by the bar chart.
-The top three genres that generated the greatest ROI in descending order are horror, mystery, and thriller. 
 
 ![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%201.png)
 
+By looking at movies from 2010 on, grouping them by genre indicators, and calculating the mean return on investment, we found these results as represented by the bar chart.
+The top three genres that generated the greatest ROI in descending order are horror, mystery, and thriller. 
+
 
 ###### Question 2: What time of year should a movie be released for the greatest mean ROI?
-When examining release month with respect to the top three genres as a whole, October, May, and January had the greatest mean ROI compared to other months of the year.
 
 ![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%202.png)
 
+When examining release month with respect to the top three genres as a whole, October, May, and January had the greatest mean ROI compared to other months of the year.
+
+
+
 ###### Question 3: How much money should be spent on production budget to maximize ROI?
+
+![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%203.png)
+
 When looking at the relationship between the production budget and return on investment for the top three genres, it produces a weak negative correlation with a Spearman’s  correlation( ρ) of -0.53 and a Pearson’s correlation (r) of -0.30. This indicates that a higher production budget will not produce a greater return on investment. 
 To gain a better understanding of the distribution of the production budgets, the box plot indicates that the middle 50% of the production budgets range from 6 million to 40 million dollars.
 
-![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%203.png)
+
 
 ## Conclusion 
 
 Results from this project’s analysis suggest the following three recommendations for Microsoft to consider:
 
-Not all genres are the same. Our analysis finds that certain genres are more favorable than others and choosing the right genre to produce affects return on investment. Microsoft should consider choosing from one or a combination of the top three genres identified: horror, mystery, or thriller. 
-Timing matters. Microsoft should consider releasing its movie in October or beginning of the year. 
-Limit budget by genre. Our analysis finds that the relationship between production budget and the return on investment for the top three genres of horror, mystery, and thriller indicates that an increase in the production budget does not lead to a greater return on investment. For that reason, when Microsoft produces a movie from the top 3 genres, they should set a budget between 6 million and 40 million dollars as this is the interquartile range or the middle 50% of the production budgets of movies. This range for the production budget of a first movie for Microsoft Studios to make will help them set a good base for the ROI and avoid spending too much money to not get an increased rate of return.
+1. Not all genres are the same. Our analysis finds that certain genres are more favorable than others and choosing the right genre to produce affects return on investment. Microsoft should consider choosing from one or a combination of the top three genres identified: horror, mystery, or thriller. 
+
+2. Timing matters. Microsoft should consider releasing its movie in October or beginning of the year. 
+
+3. Limit budget by genre. Our analysis finds that the relationship between production budget and the return on investment for the top three genres of horror, mystery, and thriller indicates that an increase in the production budget does not lead to a greater return on investment. For that reason, when Microsoft produces a movie from the top 3 genres, they should set a budget between 6 million and 40 million dollars as this is the interquartile range or the middle 50% of the production budgets of movies. This range for the production budget of a first movie for Microsoft Studios to make will help them set a good base for the ROI and avoid spending too much money to not get an increased rate of return.
 
 ## Next Steps
 
