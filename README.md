@@ -42,7 +42,7 @@ The top three genres that generated the greatest ROI in descending order are hor
 
 
 ###### Question 2: What time of year should a movie be released for the greatest mean ROI?
-When examining release month with respect to the top three genres as a whole, October, January, and July had the greatest mean ROI compared to other months of the year.
+When examining release month with respect to the top three genres as a whole, October, May, and January had the greatest mean ROI compared to other months of the year.
 
 ![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%202.png)
 
