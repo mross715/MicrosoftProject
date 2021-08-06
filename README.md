@@ -78,7 +78,7 @@ Results from this project’s analysis suggest the following three recommendatio
 
 ## Additional Information
 
-See the full analysis in the Jupyter Notebook(insert link) or review this presentation(insert link) .
+See the full analysis in the [Jupyter Notebook](google.com) or review [this presentation](google.com).
 
 For additional info, contact
 
