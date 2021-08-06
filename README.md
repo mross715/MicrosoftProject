@@ -1,9 +1,6 @@
 ![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/readme%20image.png)
 Source: freepik
 
-
-
-
 # Microsoft Studios Movie Analysis
 
 ## August 2021
@@ -41,12 +38,19 @@ This project used exploratory data analysis to generate summary statistics of va
 By looking at movies from 2010 on, grouping them by genre indicators, and calculating the mean return on investment, we found these results as represented by the bar chart.
 The top three genres that generated the greatest ROI in descending order are horror, mystery, and thriller. 
 
+![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%201.png)
+
+
 ###### Question 2: What time of year should a movie be released for the greatest mean ROI?
 When examining release month with respect to the top three genres as a whole, October, January, and July had the greatest mean ROI compared to other months of the year.
+
+![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%202.png)
 
 ###### Question 3: How much money should be spent on production budget to maximize ROI?
 When looking at the relationship between the production budget and return on investment for the top three genres, it produces a weak negative correlation with a Spearman’s  correlation( ρ) of -0.53 and a Pearson’s correlation (r) of -0.30. This indicates that a higher production budget will not produce a greater return on investment. 
 To gain a better understanding of the distribution of the production budgets, the box plot indicates that the middle 50% of the production budgets range from 6 million to 40 million dollars.
+
+![Header Image](https://github.com/mross715/MicrosoftProject/blob/main/images/Question%203.png)
 
 ## Conclusion 
 
