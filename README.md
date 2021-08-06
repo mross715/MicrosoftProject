@@ -92,12 +92,12 @@ Meaghan Ross: mer423@nyu.edu
 
 ├── README.md
 ├── data      <-- CSV and TSV files used in analyses
-├── images      <-- visualizations generated from working notebooks and external images
-├── Individuals Notebooks     <--- Directory for individual workspaces
+├── images    <-- visualizations generated from working notebooks and external images
+├── Individuals Notebooks       <--- Directory for individual workspaces
 │   ├── allison
 │   ├── meaghan
 │   ├── ronak
 │   
-├── Project 1 Notebook.ipynb     <-- Jupyter Notebook containing codes detailing project's analysis 
+├── Project 1 Notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
 ├── MicrosoftMovieProject.pdf   <-- non-technical presentation slides
 └── .gitignore
