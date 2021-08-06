@@ -88,6 +88,8 @@ Ronak Parekh: ronakp2001@live.com
 
 Meaghan Ross: mer423@nyu.edu
 
+## Project Structure 
+
 ```## Project Structure
 
 ├── README.md
