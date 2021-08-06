@@ -28,7 +28,7 @@ At the end of the cleaning and merging process, the data had 1357 movies release
 
 ## Data Analysis 
 
-Methods: this project used exploratory data analysis to generate summary statistics of various variables in the dataset. Anchoring our analysis on potential movie genres that Microsoft should consider, we examined how Microsoft can maximize ROI with respect to other factors. In particular, we focused on the following variables: release date, production budget, and worldwide gross. 
+This project used exploratory data analysis to generate summary statistics of various variables in the dataset. Anchoring our analysis on potential movie genres that Microsoft should consider, we examined how Microsoft can maximize ROI with respect to other factors. In particular, we focused on the following variables: release date, production budget, and worldwide gross. 
 
 
 ## Results 
