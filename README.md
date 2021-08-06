@@ -58,8 +58,9 @@ Limit budget by genre. Our analysis finds that the relationship between producti
 
 ## Next Steps
 
-Further analysis on budget allocation can provide insight on ways to increase ROI. For example, can spending more to secure a high paying actor/actress or renown director increase gross income? 
-Analyzing movie rating to assess its accuracy as a predictor for ROI. In light of the COVID-19 pandemic, it would be important to research consumer sentiment and its relationship to a movie’s financial success. 
+1. Further analysis on budget allocation can provide insight on ways to increase ROI. For example, can spending more to secure a high paying actor/actress or renown director increase gross income? 
+
+2. Analyzing movie rating to assess its accuracy as a predictor for ROI. In light of the COVID-19 pandemic, it would be important to research consumer sentiment and its relationship to a movie’s financial success. 
 
 
 ## Additional Information
