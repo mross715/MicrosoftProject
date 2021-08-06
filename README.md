@@ -88,7 +88,7 @@ Ronak Parekh: ronakp2001@live.com
 
 Meaghan Ross: mer423@nyu.edu
 
-## Project Structure
+```## Project Structure
 
 ├── README.md
 
@@ -110,4 +110,4 @@ Meaghan Ross: mer423@nyu.edu
 
 ├── MicrosoftMovieProject.pdf   <-- non-technical presentation slides
 
-└── .gitignore
+└── .gitignore```
