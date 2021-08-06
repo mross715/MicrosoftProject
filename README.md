@@ -2,9 +2,7 @@
 
 
 
-Allison Gao
-Ronak Parekh
-Meaghan Ross 
+Allison Gao, Ronak Parekh, Meaghan Ross 
 
 ## General Overview 
 This analysis uses historical data on movies released in the past 10 years to provide insight for Microsoft Corporation seeking to enter the movie industry. An exploratory data analysis shows that genre selection and movie release time are important factors to consider while production budget needs to be analyzed within the context of genre selection. Microsoft Corporation can use this project’s findings to inform its business decision with respect to its entry into the movie industry. 
