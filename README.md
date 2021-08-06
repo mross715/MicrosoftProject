@@ -81,6 +81,9 @@ Results from this project’s analysis suggest the following three recommendatio
 See the full analysis in the Jupyter Notebook(insert link) or review this presentation(insert link) .
 
 For additional info, contact
+
 Allison Gao: allison.gao@nyu.edu
+
 Ronak Parekh: ronakp2001@live.com
+
 Meaghan Ross: mer423@nyu.edu
