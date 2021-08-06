@@ -78,7 +78,7 @@ Results from this project’s analysis suggest the following three recommendatio
 
 ## Additional Information
 
-See the full analysis in the [Jupyter Notebook](google.com) or review [this presentation](google.com).
+See the full analysis in the [Jupyter Notebook](https://github.com/mross715/MicrosoftProject/blob/main/Project%201%20Notebook.ipynb) or review [this presentation](https://github.com/mross715/MicrosoftProject/blob/main/MicrosoftMovieProject.pdf).
 
 For additional info, contact
 
